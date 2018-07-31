@@ -1,0 +1,26 @@
+/*CSS Selecetors ids and classes*/
+.gunclip {
+
+}
+
+.chamber {
+
+}
+
+.storage {
+
+}
+
+.trigger {
+    position: relative;
+    border-radius: 50px;
+    /*background-image: url("images.png");*/
+    background: rebeccapurple;
+    color: white;
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 18px;
+
+}
